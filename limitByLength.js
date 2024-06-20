@@ -6,6 +6,6 @@ function limitByLength(inputString) {
   }
 }
 
-const longString = "ut sem nulla pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit sed vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat.";
+const longString = "Virtually every malicious attack starts with a DNS query. However, bad things can't reach your device if they don't resolve. Control D for Organizations allows you to enforce complex DNS policies on fleets of devices in literally minutes. There are personal accounts for power users too! .";
 const result = limitByLength(longString);
 console.log(result);
